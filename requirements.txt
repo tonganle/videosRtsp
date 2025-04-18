@@ -1,0 +1,11 @@
+# requirements.txt
+flask==2.0.3
+werkzeug==2.0.3
+opencv-python-headless==4.7.0.72
+ultralytics==8.3.99
+deepface==0.0.79
+tensorflow==2.12.0
+mtcnn==0.1.1
+protobuf==3.20.3
+
+
